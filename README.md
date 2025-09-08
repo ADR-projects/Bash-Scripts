@@ -32,6 +32,3 @@ chmod +x todo.sh       # make it executable
 ```
 
 The script will prompt you to create or select a to-do file on first run.
-
-
-This gives you a ready-made space for a screenshot or GIF so visitors see what the script looks like in action. Want me to add a badge or shields.io style banner at the top too?
