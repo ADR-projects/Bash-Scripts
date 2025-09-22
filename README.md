@@ -5,7 +5,7 @@ Bash scripts to automate some of my daily tasks.
 ---
 
 ### Preview
-<img src="public/todo.png"/>
+<img src="public/todo.png" width="100"/>
 
 ---
 
