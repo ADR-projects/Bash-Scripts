@@ -1,21 +1,23 @@
-## Bash-Scripts
+# Bash-Scripts
 
 Bash scripts to automate some of my daily tasks.
 
 ---
-### Preview
-<img src="public/todo.png" width="550" height="400"/>
+
+## Table of contents
+-[To-do list](#to-do-list)
 
 ---
+## Current Scripts
 
-### Current Scripts
-
-#### 1. To-Do List (`todo.sh`)
+### To-do list
 
 A simple Bash to-do list script that:
 * Creates a new `.txt` file or uses an existing one.
 * Lets you **add**, **delete**, and **view** your chores.
 ---
+#### Preview
+<img src="public/todo.png" width="550" height="400"/>
 
 #### Usage
 Clone the repo or download the todo.sh file.
