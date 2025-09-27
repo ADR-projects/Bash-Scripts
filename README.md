@@ -17,7 +17,7 @@ A simple Bash to-do list script that:
 * Lets you **add**, **delete**, and **view** your chores.
 ---
 #### Preview
-<img src="public/todo.png" width="550" height="400"/>
+<img src="public/todo.png" width="400" height="400"/>
 
 #### Usage
 Clone the repo or download the todo.sh file.
