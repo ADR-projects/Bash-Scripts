@@ -3,7 +3,6 @@
 Bash scripts to automate some of my daily tasks.
 
 ---
-
 ### Preview
 <img src="public/todo.png" width="550" height="400"/>
 
@@ -19,11 +18,15 @@ A simple Bash to-do list script that:
 ---
 
 #### Usage
+Clone the repo or download the todo.sh file.
+It is recommended that you create a new directory for todo.sh as well as the actual to-do lists, for simplicity.
 
-Clone or download the repository, then:
-
+In your home folder,
 ```bash
-cd Bash-Scripts
+mkdir todos            # create a new dir for todo.sh and also to-do lists.
+mv ~/Bash-Scripts/todo.sh ~/todos/todo.sh # if you have cloned the repo in home folder (~/)
+cd todos
+
 chmod +x todo.sh       # make it executable
 ./todo.sh help         # show help/usage
 ./todo.sh -a           # add a chore (interactive)
