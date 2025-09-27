@@ -5,7 +5,7 @@ Bash scripts to automate some of my daily tasks.
 ---
 
 ## Table of contents
--[To-do list](#to-do-list)
+- [To-do list](#to-do-list)
 
 ---
 ## Current Scripts
